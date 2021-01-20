@@ -1,0 +1,2 @@
+std_msgs/String area_name
+std_msgs/UInt16MultiArray id_list
